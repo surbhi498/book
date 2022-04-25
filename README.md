@@ -12,6 +12,7 @@ Reference:
 - [What videos should everybody watch?](https://cstheory.stackexchange.com/questions/1198/what-videos-should-everybody-watch)
 
 Additional Subjects:
+
 There are some additional subjects mentioned by [Sipser's last course](https://youtu.be/eEXSv0jChO4?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY&t=4696):
 - MIT 6.841/18.405 Advanced Complexity Theory
 - [MIT 6.875 Foundations of Cryptography](http://mit6875.org/) - [videos](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
