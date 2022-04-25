@@ -10,3 +10,11 @@ Reference:
 - [What are the recent TCS books whose drafts are available online?](https://cstheory.stackexchange.com/questions/3540/what-are-the-recent-tcs-books-whose-drafts-are-available-online)
 - [What papers should everyone read?](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read)
 - [What videos should everybody watch?](https://cstheory.stackexchange.com/questions/1198/what-videos-should-everybody-watch)
+
+Additional Subjects:
+There are some additional subjects mentioned by [Sipser's last course](https://youtu.be/eEXSv0jChO4?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY&t=4696):
+- MIT 6.841/18.405 Advanced Complexity Theory
+- [MIT 6.875 Foundations of Cryptography](http://mit6875.org/) - [videos](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
+- [MIT 6.842 Randomness and Computation](https://people.csail.mit.edu/ronitt/COURSE/S22/)
+
+Except for MIT 6.875, the rest of the courses don't seem to have public videos, if you find them, I'd appreciate it if you could let me know!
