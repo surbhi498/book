@@ -12,7 +12,7 @@ Reference:
 - [What videos should everybody watch?](https://cstheory.stackexchange.com/questions/1198/what-videos-should-everybody-watch)
 
 There are some additional subjects mentioned by [Sipser's last course](https://youtu.be/eEXSv0jChO4?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY&t=4696):
-- MIT 6.841/18.405 Advanced Complexity Theory
+- [MIT 6.841/18.405 Advanced Complexity Theory](http://people.csail.mit.edu/madhu/ST03/)
 - [MIT 6.875 Foundations of Cryptography](http://mit6875.org/) - [Spring 2018 videos](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH) - [Fall 2021 videos](https://vimeo.com/user150298776)
 - [MIT 6.842 Randomness and Computation](https://people.csail.mit.edu/ronitt/COURSE/S22/)
 
